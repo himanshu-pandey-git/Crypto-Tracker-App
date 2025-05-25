@@ -1,0 +1,32 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+
+# Log/temporary files
+*.log
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+
+# Kotlin/Java compiled files
+*.class
+
+# Android Studio Captures
+captures/
+
+# Google Services file
+google-services.json
+
+# dotenv or secrets files
+.env
